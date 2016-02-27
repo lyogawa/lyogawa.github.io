@@ -1,0 +1,77 @@
+    html {
+      height: 100%;
+    }
+    body {
+       width: 800px;
+       margin: 0 auto;
+       padding-top: 5px;
+       height: 100%;
+       background-color: #c1cdcd
+    }
+
+    header {
+        background-color: black;
+        color: #eead0e ;
+        text-align: center;
+        padding: 5px;
+        font-size: 20px;
+        display: block;
+        width: 790px;
+        font-family: fantasy;
+    }
+    nav {
+        font-size: 18px;
+        float: left;
+        font-family: fantasy;
+        width: 810px
+    }
+    nav ul {
+        height: 45px;
+        width: 800px;
+        padding: 0px;
+        margin: 0 0 0 0;
+        float: left;
+        border-bottom: 1px solid #cccccc;
+        list-style-type: none;
+        background-color: #eead0e
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: black;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+        text-decoration: none;
+        color: #f5fff5
+    }
+    a {
+        color: black;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+        padding:10px
+      }
+    footer {
+        width: 800px;
+        background-color:black;
+        color:white;
+        text-align:center;
+        clear: both;
+        padding:5px;
+        display: block;
+        font-family: fantasy;
+    }
+    img {
+    width: 780px
+    }
+    .sax {
+        width: 800;
+        padding-top: 10px;
+    }
+    h2{
+      font-family: fantasy;
+    }
